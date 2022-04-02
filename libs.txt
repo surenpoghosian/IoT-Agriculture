@@ -1,0 +1,3 @@
+FS - https://github.com/esp8266/Arduino/blob/master/cores/esp8266/FS.h              
+SD - https://www.arduino.cc/en/Reference/SD             			V(1.2.3)
+WiFi - https://www.arduino.cc/en/Reference/WiFi				V(1.2.7)
